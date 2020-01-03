@@ -1,0 +1,16 @@
+{
+  "name": "xi-node",
+  "version": "0.1.0",
+  "description": "A node frontend for the xi-editor",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node src/index.js"
+  },
+  "keywords": ["xi-editor"],
+  "author": "André Eckardt <aeckardt@outlook.com",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
+}
