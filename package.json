@@ -1,7 +1,7 @@
 {
   "name": "xi-node",
   "version": "0.1.0",
-  "description": "A node frontend for the xi-editor",
+  "description": "A xi-editor frontend written in node",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
